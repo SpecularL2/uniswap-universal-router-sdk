@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/universal-router-sdk",
+  "name": "uniswap-universal-router-sdk",
   "version": "1.5.7",
   "description": "sdk for integrating with the Universal Router contracts",
   "main": "dist/index.js",
